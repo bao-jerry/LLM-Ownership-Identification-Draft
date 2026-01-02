@@ -11,7 +11,7 @@ Email: bao.jerry.can@gmail.com
 
 ## Citation:
 If you would like to cite this work, please use:
-- Title: Yes, That's Mine: Asymptotically Foolproof LLM Ownership Verification Against Hidden Adversarial Decoding Parameter Perturbations
+- Title: *Yes, That's Mine: Asymptotically Foolproof LLM Ownership Verification Against Hidden Adversarial Decoding Parameter Perturbations*
 - Author: Jerry Bao
 - DOI: https://doi.org/10.5281/zenodo.18127692
 - Year: 2026
