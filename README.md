@@ -6,4 +6,4 @@ Creating and training an LLM can take vast amounts of resources, money, and effo
 ### Note: This is a rough draft, but the core theoretical results of this paper are stable and complete. The following are the list of things that I am currently in the process of doing:
 - Improving expositional clarity and conciseness.
 - Reformatting, restructuring, and refactoring.
-- Reformatting this Mathcha document into Latex.
+- Moving this document from Mathcha to Latex.
