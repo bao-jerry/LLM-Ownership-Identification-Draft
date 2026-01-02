@@ -6,6 +6,9 @@ Creating and training an LLM can take vast amounts of resources, money, and effo
 ## Current status:
 This is a rough draft of a paper under active development. The core theoretical results of this paper are stable and complete, but expect significant changes to presentation.
 
+## Acknowledgements:
+This research is supported by the Vector Scholarship in Artificial Intelligence, provided through the Vector Institute.
+
 ## Contact
 Email: bao.jerry.can@gmail.com
 
