@@ -1,7 +1,6 @@
 # Yes, That's Mine: Asymptotically Foolproof LLM Ownership Identification Against Hidden Adversarial Decoding Parameter Perturbations
 
 Author: Jerry Bao (contact: bao.jerry.can@gmail.com)
-
 Acknowledgement: This research is supported by the Vector Scholarship in Artificial Intelligence, provided through the Vector Institute.
 
 ## Working Abstract (Draft)
