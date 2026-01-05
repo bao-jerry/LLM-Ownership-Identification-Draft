@@ -21,4 +21,4 @@ If you would like to cite this work, please use:
 - Fix typos.
 - Improve expositional clarity and conciseness.
 - Reformat, restructure, reorganize, and refactor.
-- Move this document from Mathcha to Latex.
+- Move this document from Mathcha to LaTex.
