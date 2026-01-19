@@ -18,6 +18,7 @@ If you would like to cite this work, please use:
 - Year: 2026
 
 ## TO-DO
+- Citation formatting
 - Restructuring and refactoring
-- Typos
 - Expositional clarity and conciseness
+- Typo correction
